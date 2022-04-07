@@ -1,6 +1,6 @@
 
 
-Calculo Lideranca
+Calculo Imposto
 Exercicio em JAVA, proposto no livro JAVA 8 - de Sérgio Fugeri. Capitulo 2
 
-Usando a classe Scanner para entrada de dados, faça uma classe que receba dois valores inteiros. O  primeiro  valor  corresponde  à  quantidade  de  pontos  do  líder  do  campeonato  brasileiro  de  fu-tebol. O segundo valor corresponde à quantidade de pontos do time lanterna. Considerando que cada vitória vale 3 pontos, elabore uma classe que calcule o número de vitórias necessárias para que  o  time  lanterna  alcance  (ou  ultrapasse)  o  líder.  Por  exemplo,  supondo  que  as  quantidades  de  ponto fornecidas sejam 40 e 22, então o número de vitórias apresentada na saída deverá ser 6, pois (40-22) / 3 = 6.
+O Imposto sobre a Transmissão de Bens Móveis (ITBI) é aplicado sobre o valor de um imóvel a ser  negociado.  A  base  de  cálculo  do  ITBI  (o  valor  a  ser  considerado  no  cálculo)  será  o  maior  va-lor  entre  o  valor  de  transação  (o  valor  negociado)  e  o  valor  venal  de  referência  (fornecido  pela  Prefeitura).  Com  base  nisso,  elabore  uma  classe  que  receba  o  valor  da  transação,  o  valor  venal  e  o percentual de imposto. Após isso, encontre o maior valor e aplique o percentual sobre ele. Ao final, apresente o valor do imposto a ser pago. Observação: o valor do imposto a ser pago é calcula-do por meio da fórmula: valor do imposto = maior valor * percentual / 100. Para entrada e saída de dados utilize a classe JOptionPane.
